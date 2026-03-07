@@ -2585,8 +2585,6 @@ CCTV-17,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch1907311623349
 翡翠台,http://rihou.cc:555/tv/[PL]无线翡翠
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
-翡翠台,http://rihou.cc:555/tv/[mv]开幕翡翠
-翡翠台,http://rihou.cc:555/tv/[mv]翡翠台庆
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=33
