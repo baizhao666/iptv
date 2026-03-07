@@ -2,3 +2,11 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+122.152.202.33
+222.128.55.152
+8.138.7.223
+playtv-live.ifeng.com
+45.145.229.71
+xtvantsc.xyz
+iptv.catvod.com
+tv.sohu.blog
