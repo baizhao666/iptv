@@ -1,7 +1,34 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
+https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/main/others_output.txt
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/wujiangliu/live-sources/main/dianshijia_10.1.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/6655.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/广东.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/广东组播.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/香港澳台一锅端.txt
+https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt
+https://raw.githubusercontent.com/ffmking/tv1/main/888.txt
+https://raw.githubusercontent.com/ffmking/tv1/main/JULI.m3u
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/feiyang.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/playlist.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/smartbeiyong.m3u
+https://raw.githubusercontent.com/judy-gotv/iptvs/main/smart.m3u
+https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/main/iptv.txt
+https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.txt
+https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/main/output/result.txt
+https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt
+https://live.catvod.com/tv.m3u
+https://iptv.catvod.com/tv.m3u
+https://php.946985.filegear-sg.me/jackTV.m3u
+https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
+http://rihou.cc:555/gggg.nzk/
 
 
 
