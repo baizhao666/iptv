@@ -13,3 +13,5 @@ tv.sohu.blog
 http://rihou.cc:555/tv/[mv]开幕翡翠
 http://rihou.cc:555/tv/[mv]翡翠台庆
 http://app.jun1.xyz
+gcalic.v.myalicdn.com
+tvdrs.wsrtv.com
