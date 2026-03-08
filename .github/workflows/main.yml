@@ -13,10 +13,7 @@ on:
   schedule:
     - cron: '0 16 * * *'
   workflow_dispatch:
-    branches:
-      - master
-      - dev
-      - gd
+
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
