@@ -2579,9 +2579,6 @@ CCTV-17,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch1907311623349
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,http://rihou.cc:555/tv/[PL]无线翡高
 翡翠台,http://rihou.cc:555/tv/[PL]无线翡4k
-翡翠台,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Jade_xue
-翡翠台,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=jade_twn
-翡翠台,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbjade
 翡翠台,http://rihou.cc:555/tv/[PL]无线翡翠
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
@@ -2594,14 +2591,12 @@ CCTV-17,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch1907311623349
 翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 翡翠台,http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 翡翠台,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0广东体育,http://116.77.239.26:44300/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 翡翠台,http://xhyx.gz.cn:1698/hls/5/index.m3u8
 翡翠台,https://cdn6.101.qzz.io/163189/fct
 翡翠台,rtmp://sy.ecoheze.com/live/gdfc
