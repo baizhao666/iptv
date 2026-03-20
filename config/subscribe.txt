@@ -29,7 +29,6 @@ https://github.com/alantang1977/iptv_api/blob/main/output/live_ipv4.txt
 https://github.com/sammy0101/hk-iptv-auto/blob/main/hk_live.m3u
 https://php.946985.filegear-sg.me/test.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/main/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82026.m3u
-http://156.238.248.80:8880/live.txt
 http://43.251.226.110:9991/235295
 
 [WHITELIST]
