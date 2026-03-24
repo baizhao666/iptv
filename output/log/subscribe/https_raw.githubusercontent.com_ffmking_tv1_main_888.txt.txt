@@ -2525,7 +2525,25 @@ FashionTV 4K(法國全球時尚超高清頻道),https://fash2043.cloudycdn.servi
 蘇州修復4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北電視4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 
-簡單TV,#genre#
+🐱簡單TV,#genre#
+中視,http://74.91.26.218:82/live/ctv.m3u8
+中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
+中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
+中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+台視,http://74.91.26.218:82/live/ttv.m3u8
+台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+華視,http://74.91.26.218:82/live/cts.m3u8
+華視新聞資訊,http://74.91.26.218:82/live/ctsnews.m3u8
+華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+民視,http://74.91.26.218:82/live/ftv.m3u8
+民視新聞台,http://74.91.26.218:82/live/ftvnews.m3u8
+民視台灣台,http://74.91.26.218:82/live/ftvtw.m3u8
+民視第一台,http://74.91.26.218:82/live/ftvdy.m3u8
+公視,http://74.91.26.218:82/live/pts.m3u8
+公視台語台,http://74.91.26.218:82/live/ptsty.m3u8
+小公視,http://74.91.26.218:82/live/ptsse.m3u8
 CCTV1綜合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2財經,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3綜藝,http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -2558,27 +2576,198 @@ NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
 天映經典,http://74.91.26.218:82/live/tyjd.m3u8
 
 
-中視,http://74.91.26.218:82/live/ctv.m3u8
-中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
-中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
-中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-台視,http://74.91.26.218:82/live/ttv.m3u8
-台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
-台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
-台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
-華視,http://74.91.26.218:82/live/cts.m3u8
-華視新聞資訊,http://74.91.26.218:82/live/ctsnews.m3u8
-華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-民視,http://74.91.26.218:82/live/ftv.m3u8
-民視新聞台,http://74.91.26.218:82/live/ftvnews.m3u8
-民視台灣台,http://74.91.26.218:82/live/ftvtw.m3u8
-民視第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-公視,http://74.91.26.218:82/live/pts.m3u8
-公視台語台,http://74.91.26.218:82/live/ptsty.m3u8
-小公視,http://74.91.26.218:82/live/ptsse.m3u8
 
 
-🐮JULI0,#genre#
+
+🐮JULI,#genre#
+
+
+翡翠台4K（多音轨字幕）,https://tk2.hugo.cc.cd/stream/tk2/fct4k/master.m3u8
+无线新闻台（多音轨）,https://tk2.hugo.cc.cd/stream/tk2/news/master.m3u8
+翡翠台（多音轨字幕）,https://tk2.hugo.cc.cd/stream/tk2/jade/master.m3u8
+TVBplus（多音轨字幕）,https://tk2.hugo.cc.cd/stream/tk2/plus/master.m3u8
+明珠台（多音轨字幕）,https://tk2.hugo.cc.cd/stream/tk2/pearl/master.m3u8
+
+Asia UHD,http://221.141.112.131:4022/udp/239.192.81.36:49220
+Asia UHD,http://221.143.128.159:4022/udp/239.192.81.36:49220
+翡翠台4K(多音軌字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+TVB PLUS(多音軌字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+Astro AOD(多音軌字幕),https://o11.163189.xyz/stream/live/aod/
+華麗翡翠台(多音軌字幕),https://o11.163189.xyz/stream/live/hlt/
+華麗翡翠台,http://cdn10.163189.xyz/163189/jade
+Astro AEC(多音軌字幕),https://o11.163189.xyz/stream/live/aec/
+Astro QJ(多音軌字幕),https://o11.163189.xyz/stream/live/qj/TVB星河頻道(多音軌字幕),https://o11.163189.xyz/stream/live/tvbxh/
+TVB星河頻道(國語),http://cdn10.163189.xyz/163189/xinghe
+愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
+千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
+
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct3
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
+明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
+明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt2
+翡翠台北美版(TVB J1),https://php.jdshipin.com:2096/TVOD/iptv.php?id=j1
+TVB J1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbj1
+TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=j2
+TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+無綫新聞台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
+無綫新聞台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=wxxwt
+VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv
+VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
+HOY TV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
+HOY TV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
+HOY資訊台,http://cdn.163189.xyz/163189/hoy78
+HOY劇集台,http://cdn.163189.xyz/163189/hoyjj
+鳳凰中文,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw
+鳳凰中文,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw2
+鳳凰資訊,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx
+鳳凰資訊,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx2
+鳳凰香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
+鳳凰香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk2
+美亞電影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
+重溫經典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
+廣東珠江,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
+
+廣東體育,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
+
+澳視澳門,https://php.jdshipin.com:2096/TVOD/iptv.php?id=asam
+
+澳視衛星,https://php.jdshipin.com:2096/TVOD/iptv.php?id=as
+
+澳門體育,http://cdn6.163189.xyz/163189/amty
+澳門綜藝,http://cdn6.163189.xyz/163189/amzy
+澳門蓮花,http://cdn6.163189.xyz/163189/amlh
+RTHK31,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk31
+
+RTHK32,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk32
+
+CCTV1港澳版,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
+
+八度空間,http://cdn6.163189.xyz/163189/8tv
+CH5,http://cdn6.163189.xyz/163189/ch5
+CH8,http://cdn6.163189.xyz/163189/ch8
+CHU,http://cdn6.163189.xyz/163189/chu
+龍華電影,http://cdn8.163189.xyz/163189/lhdy
+龍華經典,http://cdn8.163189.xyz/163189/lhjd
+龍華偶像,http://cdn8.163189.xyz/163189/lhox
+龍華日韓,http://cdn8.163189.xyz/163189/lhrh
+龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
+華麗翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali
+TVB星河, https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxh
+千禧經典台, https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbc
+Astro AOD,https://php.jdshipin.com:2096/TVOD/iptv.php?id=aod
+華麗翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali2
+亞洲武俠,https://php.jdshipin.com:2096/TVOD/iptv.php?id=yzwx
+TVB生活台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbsh
+TVB娛樂新聞台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbylxw
+無綫新聞台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=wxxw
+TVB星河,https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
+NOW新聞台,https://cdn.163189.xyz/163189/now
+翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+翡翠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=mzt
+TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+翡翠劇集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+CCTV13,http://cdn3.163189.xyz/163189/cctv13
+第一財經,http://cdn3.163189.xyz/163189/dycj
+五星體育,http://cdn3.163189.xyz/163189/wxty
+海峽衛視,http://cdn3.163189.xyz/163189/hxws
+TVB星河國語,https://cdn10.163189.xyz/stream/163189/xinghe/
+天映頻道(新加坡),https://cdn10.163189.xyz/stream/163189/typd/
+天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
+
+TVB Plus,https://smt.1678520.xyz/163189/18e96648d4420d9e
+緯來電影台,https://smt.1678520.xyz/163189/145487bee05856fc
+緯來戲劇台,https://smt.1678520.xyz/163189/3586bd154f561caa
+緯來體育台,https://smt.1678520.xyz/163189/286f8eb30448a8e8
+龍祥時代,https://smt.1678520.xyz/163189/76e7d8326be4c1bb
+東森電影,https://smt.1678520.xyz/163189/a2a1ea789e237e18
+東森戲劇,https://smt.1678520.xyz/163189/2824421ea53c4891
+東森洋片,https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
+
+翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_twn
+翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_xue
+華麗翡翠台,https://php.jdshipin.com:2096/smt.php?id=Tvbjade
+華麗翡翠台,https://php.jdshipin.com:2096/smt.php?id=Wlt
+TVB星河,https://php.jdshipin.com:2096/smt.php?id=Xinhe
+明珠台,https://php.jdshipin.com:2096/smt.php?id=pearl_twn
+TVB Plus,https://php.jdshipin.com:2096/smt.php?id=j2_twn
+無綫新聞台,https://php.jdshipin.com:2096/smt.php?id=inews_twn
+TVB娛樂新聞台,https://php.jdshipin.com:2096/smt.php?id=Tvbentertainment
+ViuTV,https://php.jdshipin.com:2096/smt.php?id=viu1_twn
+ViuTVSix,https://php.jdshipin.com:2096/smt.php?id=viusix_twn
+HOY資訊台,https://php.jdshipin.com:2096/smt.php?id=hoycaijing_twn
+RTHK31,https://php.jdshipin.com:2096/smt.php?id=rhk31_twn
+RTHK32,https://php.jdshipin.com:2096/smt.php?id=rhk32_twn
+千禧經典台,https://php.jdshipin.com:2096/smt.php?id=Tvbclassic
+美亞電影台,https://php.jdshipin.com:2096/smt.php?id=meiyamovie_twn
+天映頻道,https://php.jdshipin.com:2096/smt.php?id=Celestial
+天映經典,https://php.jdshipin.com:2096/smt.php?id=Celestial2
+鳳凰中文,https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
+鳳凰資訊,https://php.jdshipin.com:2096/smt.php?id=phoenixinfo_hd
+鳳凰香港,https://php.jdshipin.com:2096/smt.php?id=hkphoenix_twn
+八度空間,https://php.jdshipin.com:2096/smt.php?id=TV8
+Astro AOD,https://php.jdshipin.com:2096/smt.php?id=Aodhd
+Astro AEC,https://php.jdshipin.com:2096/smt.php?id=AEC
+愛奇藝,https://php.jdshipin.com:2096/smt.php?id=Qiyi
+Astro QJ,https://php.jdshipin.com:2096/smt.php?id=Quanjia
+Astro歡喜台,https://php.jdshipin.com:2096/smt.php?id=Huahee
+緯來電影台,https://php.jdshipin.com:2096/smt.php?id=videolandmovie
+緯來體育台,https://php.jdshipin.com:2096/smt.php?id=videolandsport
+
+華麗翡翠台(硬字幕),http://cdn6.163189.xyz/163189/jade
+
+TVB星河國語,https://cdn10.163189.xyz/stream/163189/xinghe/
+天映頻道(新加坡),https://cdn10.163189.xyz/stream/163189/typd/
+天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
+CCTV1港澳版,https://cdn10.163189.xyz/stream/163189/cctv1/
+ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
+ViuTVsix,https://cdn10.163189.xyz/stream/163189/viu6/
+
+龍華電影,http://cdn8.163189.xyz/163189/lhdy
+
+湖南衛視4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+CGTV 1080P,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN GlobalBiz,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+China Travel,https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+Discovering China,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+緯來電影台(smt),https://smt.1678520.xyz/163189/145487bee05856fc
+緯來戲劇台(smt),https://smt.1678520.xyz/163189/3586bd154f561caa
+龍祥時代(smt),https://smt.1678520.xyz/163189/76e7d8326be4c1bb
+東森電影(smt),https://smt.1678520.xyz/163189/a2a1ea789e237e18
+東森戲劇(smt),https://smt.1678520.xyz/163189/2824421ea53c4891
+東森洋片(smt),https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
+
+CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
+重溫經典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
+HOY劇集台,https://cdn11.163189.xyz/163189/a94d3b1906890f40
+HOY生活台,https://cdn11.163189.xyz/163189/97a58b41f2858adf
+HOY怪談台,https://cdn11.163189.xyz/163189/619486fefe584d65
+HOY體育台,https://cdn11.163189.xyz/163189/ceadd90e759a6f19
+
+HOY國際財經台,https://cdn11.163189.xyz/163189/2c86601a7180416e
+
+民視影劇,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+公視戲劇,https://cdn12.178.indevs.in/163189/2973b910e7719c08
+采昌影劇台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+靖天映畫,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天戲劇台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天電影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖洋戲劇,https://cdn12.178.indevs.in/163189/5c1cf6af04d96cb4
+影迷數位電影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
+amc電影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+經典電影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+DreamWorks夢工廠動畫,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+精選動漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+金光布袋戲,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+
+
 
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -2683,7 +2872,7 @@ Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro 歡喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
-🐮JULI1,#genre#
+🐮JULI港台CDN,#genre#
 
 翡翠台4K,http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
@@ -2788,89 +2977,20 @@ ViuTV,http://r.jdshipin.com/vSJvl
 廣州影視,http://r.jdshipin.com/sFw4S
 海峽衛視,http://r.jdshipin.com/WtYt3
 
-翡翠台4K,https://vhr.dpdns.org/20003/live/fct4k/stream.m3u8
-鳳凰衛視中文台,https://vhr.dpdns.org/20003/live/fhzw/stream.m3u8
-CCTV1港澳版,https://vhr.dpdns.org/20003/live/cctv1/stream.m3u8
-TVB Plus,https://vhr.dpdns.org/20003/live/tvbp/stream.m3u8
-HOY TV,https://vhr.dpdns.org/20003/live/hoy/stream.m3u8
-HOY TV,https://vhr.dpdns.org/20000/live/hoy/stream.m3u8
-ViuTV,https://vhr.dpdns.org/20000/live/viu/stream.m3u8
-Now 新聞台,https://vhr.dpdns.org/20000/live/now/stream.m3u8
-RTHK31,https://vhr.dpdns.org/20000/live/rthk31/stream.m3u8
-RTHK32,https://vhr.dpdns.org/20000/live/rthk32/stream.m3u8
-澳視澳門,https://vhr.dpdns.org/20003/live/asam/stream.m3u8
-澳視衛星,https://vhr.dpdns.org/20003/live/as/stream.m3u8
-澳門體育,https://vhr.dpdns.org/20003/live/amty/stream.m3u8
-澳門綜藝,https://vhr.dpdns.org/20003/live/amzy/stream.m3u8
-澳門蓮花,https://vhr.dpdns.org/20003/live/amlh/stream.m3u8
-重溫經典,https://vhr.dpdns.org/20003/live/cwjd/stream.m3u8
-鳳凰衛視資訊台,https://vhr.dpdns.org/20003/live/fhzx/stream.m3u8
-鳳凰衛視香港台,https://vhr.dpdns.org/20003/live/fhhk/stream.m3u8
-TVB1,https://vhr.dpdns.org/20003/live/tvb1/stream.m3u8
-TVBJ1,https://vhr.dpdns.org/20003/live/j1/stream.m3u8
-翡翠劇集台,https://vhr.dpdns.org/20003/live/tvbd/stream.m3u8
-翡翠台,https://vhr.dpdns.org/20003/live/fct/stream.m3u8
-明珠台,https://vhr.dpdns.org/20003/live/mzt/stream.m3u8
-無綫新聞台,https://vhr.dpdns.org/20003/live/wxxw/stream.m3u8
-廣東珠江,https://vhr.dpdns.org/20007/live/gdzj/stream.m3u8
-廣東體育,https://vhr.dpdns.org/20007/live/gdty/stream.m3u8
-八度空間,https://vhr.dpdns.org/20003/live/8tv/stream.m3u8
-Channel 5,https://vhr.dpdns.org/20003/live/ch5/stream.m3u8
-Channel 8,https://vhr.dpdns.org/20003/live/ch8/stream.m3u8
-Channel U,https://vhr.dpdns.org/20003/live/chu/stream.m3u8
-龍華電影,https://vhr.dpdns.org/20009/live/lhdy/stream.m3u8
-龍華經典,https://vhr.dpdns.org/20009/live/lhjd/stream.m3u8
-龍華卡通,https://vhr.dpdns.org/20009/live/lhkt/stream.m3u8
-龍華偶像,https://vhr.dpdns.org/20009/live/lhox/stream.m3u8
-龍華日韓,https://vhr.dpdns.org/20009/live/lhrh/stream.m3u8
-龍華戲劇,https://vhr.dpdns.org/20009/live/lhxj/stream.m3u8
-龍華洋片,https://vhr.dpdns.org/20009/live/lhyp/stream.m3u8
-翡翠台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=jade_twn
-翡翠台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=jade_xue
-華麗翡翠台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Tvbjade
-明珠台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=pearl_twn
-無綫新聞台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=inews_twn
-TVB Plus,https://vhr.dpdns.org/20002/smt3.2.1.php?id=j2_twn
-TVB星河,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Xinhe
-千禧經典台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Tvbclassic
-娛樂新聞台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Tvbentertainment
-ViuTV,https://vhr.dpdns.org/20002/smt3.2.1.php?id=viu1_twn
-ViuTVSix,https://vhr.dpdns.org/20002/smt3.2.1.php?id=viusix_twn
-RTHK31,https://vhr.dpdns.org/20002/smt3.2.1.php?id=rhk31_twn
-RTHK32,https://vhr.dpdns.org/20002/smt3.2.1.php?id=rhk32_twn
-鳳凰衛視中文台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=phoenixtv_hd
-鳳凰衛視資訊台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=phoenixinfo_hd
-鳳凰衛視香港台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=hkphoenix_twn
-美亞電影台TW,https://vhr.dpdns.org/20002/smt3.2.1.php?id=meiyamovie_twn
-天映頻道,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Celestial
-天映經典,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Celestial2
-Astro AOD,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Aodhd
-Astro AEC,https://vhr.dpdns.org/20002/smt3.2.1.php?id=AEC
-愛奇藝,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Qiyi
-Astro QJ,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Quanjia
-Astro 歡喜台,https://vhr.dpdns.org/20002/smt3.2.1.php?id=Huahee
-八度空間,https://vhr.dpdns.org/20002/smt3.2.1.php?id=TV8
-華麗翡翠台,https://vhr.dpdns.org/20004/live/hlfct/stream.m3u8
-亞洲武俠,https://vhr.dpdns.org/20004/live/yzwx/stream.m3u8
-娛樂新聞台,https://vhr.dpdns.org/20004/live/ylxw/stream.m3u8
-無線新聞台,https://vhr.dpdns.org/20004/live/wxxwt/stream.m3u8
-TVB星河,https://vhr.dpdns.org/20004/live/tvbxh/stream.m3u8
-翡翠台字幕,https://vhr.dpdns.org/20010/hls/fct/playlist.m3u8
-明珠台字幕,https://vhr.dpdns.org/20010/hls/mzt/playlist.m3u8
-CCTV13,https://vhr.dpdns.org/20001/live/cctv13/stream.m3u8
-深圳衛視4K,https://vhr.dpdns.org/20001/live/szws4k/stream.m3u8
-深圳財經生活,https://vhr.dpdns.org/20001/live/szcjsh/stream.m3u8
-第一財經,https://vhr.dpdns.org/20001/live/dycj/stream.m3u8
-五星體育,https://vhr.dpdns.org/20001/live/wxty/stream.m3u8
-🐮JULI3
-,#genre#
+
+🐮JULI港台字幕,#genre#
 
 
+翡翠台4K（多音轨字幕）,https://tk2.hugo.cc.cd/stream/tk2/fct4k/master.m3u8
+无线新闻台（多音轨）,https://tk2.hugo.cc.cd/stream/tk2/news/master.m3u8
+翡翠台（多音轨字幕）,https://tk2.hugo.cc.cd/stream/tk2/jade/master.m3u8
+TVBplus（多音轨字幕）,https://tk2.hugo.cc.cd/stream/tk2/plus/master.m3u8
+明珠台（多音轨字幕）,https://tk2.hugo.cc.cd/stream/tk2/pearl/master.m3u8
 
 
 
 翡翠台4K(多音軌字幕),https://o11.163189.xyz/stream/tvb/fct4k/
-TVB PLUS(多音軌字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+TVBplus(多音軌字幕),https://o11.163189.xyz/stream/tvb/tvbp/
 Astro AOD(多音軌字幕),https://o11.163189.xyz/stream/live/aod/
 華麗翡翠台(多音軌字幕),https://o11.163189.xyz/stream/live/hlt/
 華麗翡翠台,http://cdn10.163189.xyz/163189/jade
@@ -2887,43 +3007,9 @@ TVB星河頻道(國語),http://cdn10.163189.xyz/163189/xinghe
 天映頻道,http://cdn10.163189.xyz/163189/typd
 天映經典,http://cdn10.163189.xyz/163189/ccm
 
-HOY 國際財經台,https://tvbjack.946985.filegear-sg.me/ch76/jcakch76.m3u8
-HOY 資訊台,https://tvbjack.946985.filegear-sg.me/ch78/jcakch78.m3u8
 
 
-🐮香港(TVfix)失效,#genre#
-翡翠台,https://live.tvfix.org/live/jade/index.m3u8
-TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
-無線新聞台,https://live.tvfix.org/live/inews/index.m3u8
-明珠台,https://live.tvfix.org/live/pearl/index.m3u8
-娛樂新聞台,https://live.tvfix.org/live/enews/index.m3u8
-鳳凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-鳳凰資訊,https://live.tvfix.org/live/fhzx/index.m3u8
-鳳凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
-CCTV-1高清,https://live.tvfix.org/live/cctv1hd/index.m3u8
-CGTN紀錄高清,https://live.tvfix.org/live/cgtndochd/index.m3u8
-CGTN高清,https://live.tvfix.org/live/cgtnhd/index.m3u8
-中國電影頻道,https://live.tvfix.org/live/cmc/index.m3u8
-東方衛視高清,https://live.tvfix.org/live/dfhd/index.m3u8
-18台賽馬頻道,https://live.tvfix.org/live/c18/index.m3u8
-28台AI智慧賽馬頻道,https://live.tvfix.org/live/c28/index.m3u8
-SUPER Kids Channel,https://live.tvfix.org/live/kid/index.m3u8
-ZooMoo,https://live.tvfix.org/live/zoo/index.m3u8
-Nickelodeon,https://live.tvfix.org/live/niko/index.m3u8
-Nick Jr,https://live.tvfix.org/live/nickjr/index.m3u8
-美亞電影台(粵語),https://live.tvfix.org/live/mydy/index.m3u8
-天映經典,https://live.tvfix.org/live/tyjd/index.m3u8
-ROCK Action,https://live.tvfix.org/live/rockac/index.m3u8
-PopC,https://live.tvfix.org/live/popc/index.m3u8
-KIX,https://live.tvfix.org/live/kix/index.m3u8
-Love Nature HD,https://live.tvfix.org/live/lovenature/index.m3u8
-Global Trekker,https://live.tvfix.org/live/trekker/index.m3u8
-ROCK綜藝娛樂,https://live.tvfix.org/live/rockzy/index.m3u8
-AXN,https://live.tvfix.org/live/axn/index.m3u8
-TVBS亞洲台,https://live.tvfix.org/live/tvbs/index.m3u8
-創世頻道,https://live.tvfix.org/live/chuangshi/index.m3u8
-FashionBox,https://live.tvfix.org/live/fashion/index.m3u8
-Mezzo Live HD,https://live.tvfix.org/live/mezzon/index.m3u8
+
 
 
 
@@ -2932,16 +3018,9 @@ Mezzo Live HD,https://live.tvfix.org/live/mezzon/index.m3u8
 發發貓,https://d.kstore.dev/download/4343/labubu1.mp4
 特線專用,https://d.kstore.dev/download/4343/8866.mp4
 LABUBU,https://d.kstore.dev/download/4343/ffmking.mp4
-BBC lifestyle(touch),https://lifestyle.touch-u.fun/index.m3u8
-BBC earth(touch),https://earth.touch-u.fun/index.m3u8
-翡翠台(o12),http://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台(o12),http://mytv.cdn.loc.cc/o12.php?id=mzt
-HOY資訊台(168),http://hls.168.us.kg/u/78/master.m3u8
-無綫新聞台(168),http://hls.168.us.kg/u/83/master.m3u8
-Now新闻台(168),http://hls.168.us.kg/u/332/master.m3u8
-星空衛視(122),http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
-澳門蓮花衛視(122),http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
-天映頻道(122),http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
+
+
+
 
 翡翠台(xhyx),http://xhyx.gz.cn:1698/hls/5/index.m3u8
 鳳凰資訊(xhyx),http://xhyx.gz.cn:1698/hls/31/index.m3u8
@@ -2953,30 +3032,15 @@ Now新闻台(168),http://hls.168.us.kg/u/332/master.m3u8
 
 
 
-星空衛視(dl),https://dl.dropboxusercontent.com/scl/fi/rrxb2v21qox1na9onp419/XING_KONG_TV.m3u8?rlkey=s9vs6qgbpfnvum4un2of904wm
 
 
-明珠台(o12),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-翡翠台(標清),http://erp.giihgtidg.com:8080/live/jade01.m3u8
-無綫新聞台(標清),http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-
-鳳凰衛視電影台(diyp),http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-星空衛視(diyp),http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-CHANNEL[V](diyp),http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-星空衛視(國際頻道)(diyp),http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 
 
-亚洲卫视(鳳凰),https://fenghuang.tv12.xyz/173.m3u8
-中天新闻1(鳳凰),https://fenghuang.tv12.xyz/1001.m3u8
-中天新闻2(鳳凰),https://fenghuang.tv12.xyz/1002.m3u8
-寰宇新闻(鳳凰),https://fenghuang.tv12.xyz/1003.m3u8
-澳视澳门台(鳳凰),https://fenghuang.tv12.xyz/181.m3u8
-澳视葡文台(鳳凰),https://fenghuang.tv12.xyz/182.m3u8
-澳视卫星台(鳳凰),https://fenghuang.tv12.xyz/183.m3u8
-澳视体育台(鳳凰),https://fenghuang.tv12.xyz/184.m3u8
-澳视资讯台(鳳凰),https://fenghuang.tv12.xyz/185.m3u8
-澳视综艺台(鳳凰),https://fenghuang.tv12.xyz/186.m3u8
-莲花卫视(鳳凰),https://fenghuang.tv12.xyz/187.m3u8
+
+
+
+
+
 
 
 
@@ -3695,6 +3759,8 @@ EZTV-1(義大利歐洲華文電視台一套 ),video://http://eztv1.cn/zb/index.p
 
 
 
+Asia UHD,http://221.141.112.131:4022/udp/239.192.81.36:49220
+Asia UHD,http://221.143.128.159:4022/udp/239.192.81.36:49220
 
 
 
@@ -8140,40 +8206,7 @@ JET綜合,http://211.23.114.106:8528/http/61.221.81.94:8081/hls/74/816/ch54.m3u8
 年代much,http://211.23.114.106:8528/http/61.221.81.94:8081/hls/72/814/ch45.m3u8
 好萊塢電影,http://211.23.114.106:8554/http/61.221.81.94:8081/hls/74/816/ch55.m3u8
 
-🐻台灣(有線測試61),#genre#
-CNN HD,http://61.216.11.93:49981/stream/channelid/881277234?profile=webtv-h264-aac-mpegts
-民視,http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
-大愛電視台,http://61.216.11.93:49981/stream/channelid/1572016406?profile=webtv-h264-aac-mpegts
-好消息電視台,http://61.216.11.93:49981/stream/channelid/688411022?profile=webtv-h264-aac-mpegts
-TLC HD,http://61.216.11.93:49981/stream/channelid/458490002?profile=webtv-h264-aac-mpegts
-Nick Jr HD,http://61.216.11.93:49981/stream/channelid/580636100?profile=webtv-h264-aac-mpegts
-緯來綜合台,http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
-緯來日本台,http://61.216.11.93:49981/stream/channelid/793565325?profile=webtv-h264-aac-mpegts
-緯來體育台,http://61.216.11.93:49981/stream/channelid/1043018929?profile=webtv-h264-aac-mpegts
-中天綜合台,http://61.216.11.93:49981/stream/channelid/1140193239?profile=webtv-h264-aac-mpegts
-八大第一台,http://61.216.11.93:49981/stream/channelid/2021000694?profile=webtv-h264-aac-mpegts
-八大綜合台,http://61.216.11.93:49981/stream/channelid/1339557876?profile=webtv-h264-aac-mpegts
-八大戲劇台,http://61.216.11.93:49981/stream/channelid/1459437627?profile=webtv-h264-aac-mpegts
-DAZN1,http://61.216.11.93:49981/stream/channelid/1943512210?profile=webtv-h264-aac-mpegts
-東森超視台,http://61.216.11.93:49981/stream/channelid/1026178460?profile=webtv-h264-aac-mpegts
-東森新聞台,http://61.216.11.93:49981/stream/channelid/1254660478?profile=webtv-h264-aac-mpegts
-年代much,http://61.216.11.93:49981/stream/channelid/644357774?profile=webtv-h264-aac-mpegts
-TVBS歡樂台,http://61.216.11.93:49981/stream/channelid/1607444205?profile=webtv-h264-aac-mpegts
-緯來電影台,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
-好萊塢電影台,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
-CINEMAX,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
-CINEMAX,http://61.216.11.93:49981/stream/channelid/1222093986?profile=webtv-h264-aac-mpegts
-信吉電視台,http://61.216.11.93:49981/stream/channelid/166215564?profile=webtv-h264-aac-mpegts
-NHK Word Premium(日本放送協會國際收費頻道),http://61.216.11.93:49981/stream/channelid/797583403?profile=webtv-h264-aac-mpegts
 
-動物星球頻道,http://61.216.11.93:49981/stream/channelid/1348882571?profile=webtv-h264-aac-mpegts
-
-TVBS歡樂台,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
-民視,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
-八大第一台,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
-八大綜合台,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
-緯來電影台,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
-信吉電視台,http://61.216.11.93:49981/stream/channelid/166215564.m3u8
 
 
 🐻台灣（全網）,#genre# 
