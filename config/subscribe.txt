@@ -2,7 +2,6 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
 https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
@@ -22,15 +21,16 @@ https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/main/iptv.txt
 https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.txt
 https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/main/output/result.txt
 https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt
-https://php.946985.filegear-sg.me/jackTV.m3u
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
 http://rihou.cc:555/gggg.nzk/
 https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
 https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u
-https://php.946985.filegear-sg.me/test.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/main/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82026.m3u
 http://43.251.226.110:9991/235295
-https://live.catvod.com/live.php?token=0818f3e33bb972867cc3920ed543e5f4344b58b38f0a90740a23204a608f6a51
+
+# https://php.946985.filegear-sg.me/jackTV.m3u
+# https://php.946985.filegear-sg.me/test.m3u
+# https://live.catvod.com/live.php?token=0818f3e33bb972867cc3920ed543e5f4344b58b38f0a90740a23204a608f6a51
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
