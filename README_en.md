@@ -7,6 +7,8 @@
     ⚡️ IPTV live-source automatic update platform — 🤖 fully automated collection, filtering, speed-testing, and generation 🚀. Supports extensive personalized configuration; paste the resulting address into a player to watch.
 </p>
 
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/govin)
+
 <p align="center">
     <br>
     <a href="https://trendshift.io/repositories/12327" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12327" alt="Guovin%2Fiptv-api | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -56,14 +58,11 @@
 - [⚖️ License](#license)
 
 > [!IMPORTANT]
-> 1. ⚠️ Due to an excessive number of forks, GitHub resource usage has reached its limit, and the workflow has been
-     changed to manual trigger. Please update [main.yml](./.github/workflows/main.yml) as soon as possible to remove the
-     scheduled task; otherwise the workflow may be disabled!
-> 2. Go to the `Govin` WeChat public account and reply with `cdn` to get an acceleration address to improve access speed
+> 1. Go to the `Govin` WeChat public account and reply with `cdn` to get an acceleration address to improve access speed
      for subscription sources and channel logos.
-> 3. This project does not provide data sources. Please add your own before generating
+> 2. This project does not provide data sources. Please add your own before generating
      results. ([How to add data sources?](./docs/tutorial_en.md#Add-data-sources-and-more))
-> 4. The quality of generated results depends on the data sources and network conditions; please adjust
+> 3. The quality of generated results depends on the data sources and network conditions; please adjust
      the [configuration](#Config) accordingly to obtain results that better meet your needs.
 
 ## Core Features
@@ -72,7 +71,7 @@
 |:------------------------------|:-------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Custom templates**          |    ✅    | Generate custom channel playlists                                                                                                                           |
 | **Channel aliases**           |    ✅    | Improve channel matching and accuracy, supports regular expressions                                                                                         |
-| **Multi-source aggregation**  |    ✅    | Local sources and subscription sources (supports setting the User-Agent header)                                                                             |
+| **Multi-source aggregation**  |    ✅    | Local sources and subscription sources (supports UA configuration, detects invalid addresses and automatically disables them)                               |
 | **Stream relay**              |    ✅    | Improve playback on weak networks, supports direct browser playback, and automatic transcoding/adaptation                                                   |
 | **Replay/VOD interfaces**     |    ✅    | Fetching and generating replay/VOD interfaces                                                                                                               |
 | **EPG**                       |    ✅    | Fetch and display channel program guides                                                                                                                    |
@@ -354,6 +353,8 @@ Contact via email: `360996299@qq.com`
 ## Donations
 
 <div>Development and maintenance are not easy, please buy me a coffee ~</div>
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/govin)
 
 | Alipay                                | Wechat                                    |
 |---------------------------------------|-------------------------------------------|
