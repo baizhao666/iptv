@@ -16,22 +16,21 @@ https://raw.githubusercontent.com/ffmking/tv1/main/888.txt
 https://raw.githubusercontent.com/ffmking/tv1/main/JULI.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/main/feiyang.txt
 https://raw.githubusercontent.com/baizhao666/baizhao666/main/playlist.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
 https://raw.githubusercontent.com/judy-gotv/iptv/main/smartbeiyong.m3u
-https://raw.githubusercontent.com/judy-gotv/iptvs/main/smart.m3u
 https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/main/iptv.txt
 https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.txt
 https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/main/output/result.txt
 https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt
-https://live.catvod.com/tv.m3u
-https://iptv.catvod.com/tv.m3u
 https://php.946985.filegear-sg.me/jackTV.m3u
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
 http://rihou.cc:555/gggg.nzk/
-https://github.com/alantang1977/iptv_api/blob/main/output/live_ipv4.txt
-https://github.com/sammy0101/hk-iptv-auto/blob/main/hk_live.m3u
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
+https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u
 https://php.946985.filegear-sg.me/test.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/main/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82026.m3u
 http://43.251.226.110:9991/235295
+https://live.catvod.com/live.php?token=0818f3e33bb972867cc3920ed543e5f4344b58b38f0a90740a23204a608f6a51
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
