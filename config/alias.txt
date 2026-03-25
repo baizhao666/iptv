@@ -59,6 +59,7 @@ CGTN俄语,CGTN俄罗斯语
 
 翡翠台,re:翡翠(?!\d),TVb翡翠台,tvb翡翠台,TVB翡翠台,re:无线翡翠(?!\d),
 明珠台,re:明珠(?!\d),TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
+TVB Plus,TVBPLUS,TVBPlus,TVB plus,tvb plus,TVB PLUS
 北京卫视,北京卫视4K,北京卫视4K超高清
 凤凰中文,凤凰卫视中文台
 凤凰香港,凤凰卫视香港台
