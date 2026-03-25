@@ -2221,6 +2221,7 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 岭南戏曲,http://120.238.94.82:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊港·澳·台,#genre#
+翡翠台,https://tk2.hugo.cc.cd/stream/tk2/jade/master.m3u8
 翡翠台,http://156.238.248.80:8880/play/640.216526.m3u8
 翡翠台,http://156.238.248.80:8880/play/687.921786.m3u8
 翡翠台,http://rihou.cc:555/tv/[PL]无线翡4k
