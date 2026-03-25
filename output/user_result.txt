@@ -2222,6 +2222,8 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://tk2.hugo.cc.cd/stream/tk2/jade/master.m3u8
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://156.238.248.80:8880/play/640.216526.m3u8
 翡翠台,http://156.238.248.80:8880/play/687.921786.m3u8
 翡翠台,http://rihou.cc:555/tv/[PL]无线翡4k
@@ -2247,11 +2249,13 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 翡翠台,https://cdn6.101.qzz.io/163189/fct
 TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,http://156.238.248.80:8880/play/689.617013.m3u8
 TVB Plus,http://156.238.248.80:8880/play/643.687262.m3u8
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,https://cdn6.101.qzz.io/163189/tvbp
+明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,http://rihou.cc:555/tv/[PL]无线明标
 明珠台,http://rihou.cc:555/tv/[PL]无线明珠
 明珠台,http://156.238.248.80:8880/play/642.710733.m3u8
