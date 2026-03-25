@@ -30,7 +30,7 @@ CCTV-5+,http://aik.ddnsfile.top:65235/rtp/239.21.1.142:5002
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 
 
 [KEYWORDS]
