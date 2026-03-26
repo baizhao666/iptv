@@ -236,6 +236,8 @@ CCTV-4中文國際頻道(歐洲),http://www.lizhinas.top:1009/udp/239.252.219.19
 CCTV-4中文國際頻道(美洲),http://www.lizhinas.top:1009/udp/239.252.219.193:5140
 
 重溫經典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
+重溫經典,
+http://116.77.239.26:44300/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 
 重溫經典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
@@ -252,9 +254,18 @@ CCTV-4中文國際頻道(美洲),http://www.lizhinas.top:1009/udp/239.252.219.19
 鳳凰衛視中文台,http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8
 鳳凰衛視資訊台,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 鳳凰衛視資訊台,http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8
+
+鳳凰衛視香港台,https://cdn6.163189.xyz/163189/fhhk
 鳳凰衛視香港台,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
-鳳凰衛視香港台,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-鳳凰衛視香港台,http://xg.52sw.top/play/fh.php?id=fhxg
+鳳凰衛視香港台,https://php.jdshipin.com:2096/smt.php?id=hkphoenix_twn
+
+鳳凰衛視香港台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
+鳳凰衛視香港台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk2
+鳳凰衛視香港台,http://gd.wsd.gd.cn:1698/hls/97/index.m3u8
+
+
+
+
 鳳凰衛視香港台,https://edge.163189.xyz/163189/fhhk
 鳳凰衛視香港台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 鳳凰衛視香港台,http://bx.757888.xyz/api.php?id=fhhk
@@ -263,6 +274,14 @@ CCTV-4中文國際頻道(美洲),http://www.lizhinas.top:1009/udp/239.252.219.19
 鳳凰衛視香港台,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:11:ED:45&stream=153402&extension=ts&play_token=Va2HtR9jUD
 鳳凰衛視香港台,http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&stream=153402&extension=ts&play_token=vBulb9w1pg
 鳳凰衛視香港台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&stream=153402&extension=ts&play_token=v43osRykOm
+
+鳳凰衛視電影台,http://dsm.xlangnan.cn:10316/rtp/239.254.201.1:5214
+鳳凰衛視電影台,http://share.xlangnan.cn:10316/rtp/239.254.201.1:5214
+鳳凰衛視電影台,http://emby.xlangnan.cn:10316/rtp/239.254.201.1:5214
+
+
+
+
 鳳凰衛視電影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 鳳凰衛視電影台,http://heb.myshare.pw:4022/rtp/239.254.201.1:5214
 鳳凰衛視電影台,http://kictoc.top:7000/rtp/239.254.201.1:5214
@@ -276,7 +295,14 @@ CCTV-4中文國際頻道(美洲),http://www.lizhinas.top:1009/udp/239.252.219.19
 鳳凰衛視歐洲台,http://87.115.244.244:9981/stream/channelid/1660081147?profile=pass
 鳳凰衛視歐洲台,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:24:74:3E&stream=156408&extension=ts&play_token=SKgVNFln5O
 鳳凰衛視歐洲台,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:11:ED:45&stream=156408&extension=ts&play_token=SKgVNFln5O
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
+翡翠台,https://tk2.hugo.cc.cd/stream/tk2/jade/master.m3u8
+翡翠台4K,https://tk2.hugo.cc.cd/stream/tk2/fct4k/master.m3u8
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct
+翡翠台4K,https://cdn6.163189.xyz/163189/fct4k翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
+
+
 翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 翡翠台,http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 翡翠台,http://edge.163189.xyz/163189/fct
@@ -294,6 +320,15 @@ CCTV-4中文國際頻道(美洲),http://www.lizhinas.top:1009/udp/239.252.219.19
 
 翡翠台,http://mytv.101.qzz.io/hls/fct/playlist.m3u8
 翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+
+
+星空衛視,http://36.36.200.198:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+CHANNEL[V],http://36.36.200.198:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+
+星空衛視,http://111.221.137.234:44330/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0
+CHANNEL[V],http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+
+星空衛視,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 星空衛視,http://xdnas.teop.cn:8189/udp/239.93.1.10:2193
 星空衛視,http://xdnas.teop.cn:8189/udp/239.93.0.156:2193
