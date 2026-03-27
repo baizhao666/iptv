@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1,翡翠台juli
+https://test.tvbjack.de5.net/proxy/e3ed63cca3fa24f0
+#EXTINF:-1,翡翠台mpd-hls
+https://test.tvbjack.de5.net/proxy/0c829eaef402ec6d
+
+
