@@ -2473,12 +2473,32 @@ EZTV-6(義大利歐洲華文電視台六套 ),video://http://eztv1.cn/zb/index.p
 龍華電影,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-
-
+🐮港台185测试,#genre#
+功夫台,http://185.44.67.64:53874/proxy/74a1f88bb26edd96.m3u8
+TVB星河頻道,http://185.44.67.64:53874/proxy/eec374cc1e8d1626.m3u8
+RTHK 33,http://185.44.67.64:53874/proxy/0fdfa04b92f5c594.m3u8
+HBO,http://185.44.67.64:53874/proxy/8344047d8a5bf00d.m3u8
+翡翠台,http://185.44.67.64:53874/proxy/35440298248eb34e.m3u8
+緯來電影台,http://185.44.67.64:53874/proxy/a7de9e9ba71250e9.m3u8
+緯來體育台,http://185.44.67.64:53874/proxy/61c0ab7561e12ec3.m3u8
+龍詳時代,http://185.44.67.64:53874/proxy/915b23f85984ae41.m3u8
+美亞電影,http://185.44.67.64:53874/proxy/c10efe20c00cbe2a.m3u8
+年代新聞,http://185.44.67.64:53874/proxy/bc7685dc95fd47bd.m3u8
+天映頻道,http://185.44.67.64:53874/proxy/ef4e3e8fbf45f178.m3u8
+東森電影,http://185.44.67.64:53874/proxy/ff77d549ea9b89db.m3u8
+東森洋片,http://185.44.67.64:53874/proxy/f9cf8471c7491eb9.m3u8
+HBO Family,http://185.44.67.64:53874/proxy/0a0caa8e311af1bf.m3u8
+AXN,http://185.44.67.64:53874/proxy/24add3f950a39908.m3u8
 🐴超清測試(低端設備勿試),#genre#
 發發貓,https://d.kstore.dev/download/4343/labubu1.mp4
 特線專用,https://d.kstore.dev/download/4343/8866.mp4
 LABUBU,https://d.kstore.dev/download/4343/ffmking.mp4
+
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$官网
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$官网
+
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8$官网
+
 
 四川卫视4K,http://marswjf.coralangel.com:7088/udp/239.94.0.115:5140$四川电信1
 湖南卫视4K,http://marswjf.coralangel.com:7088/udp/239.94.0.116:5140$四川电信1
