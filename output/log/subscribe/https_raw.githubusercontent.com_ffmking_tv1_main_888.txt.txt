@@ -2596,9 +2596,49 @@ SUPER Kids Channel,https://test.946985.filegear-sg.me/proxy/eddd5afaabcea08d
  龍華日韓台,https://test.946985.filegear-sg.me/proxy/f6f78c765df2ddeb
  龍華經典台,https://test.946985.filegear-sg.me/proxy/faf8c548f20d0b0c
  豬哥亮歌廳秀,https://test.946985.filegear-sg.me/proxy/e19253500c003a2e
+🐮港台谷豆/香蕉测试,#genre#
+鳳凰衛視中文台(廣東谷豆),http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1301.m3u8
+星空衛視(廣東谷豆),http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1307.m3u8
+明珠台(廣東谷豆),http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1351_7500.m3u8
+翡翠台(廣東谷豆),http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1350_7500.m3u8
+翡翠台(廣東谷豆),http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1302.m3u8
+明珠台(廣東谷豆),http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1304.m3u8
+澳視澳門(廣東谷豆),http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1321.m3u8
 
 
-🐮港台185测试,#genre#
+翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
+無綫新聞台,rtmp://163.204.116.62/live/xaingjiaoge-wxxw
+中天新聞台,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+
+🐮港台rihou测试,#genre#
+Now星影(國),http://rihou.cc:555/tv/hktv%2F19nowxy
+Now爆谷(國),http://rihou.cc:555/tv/hktv%2F19nowbg
+Now華劇台,http://rihou.cc:555/tv/hktv%2F19nowhj
+Now劇集台,http://rihou.cc:555/tv/hktv%2F19nowjj
+TVB功夫(國),http://rihou.cc:555/tv/hktv%2F19tvbgf
+
+寰宇新闻,http://rihou.cc:555/tv/[Uk]寰宇新闻
+民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
+民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
+中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
+华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
+台视新闻,http://rihou.cc:555/tv/[mn]台视新闻
+公视,http://rihou.cc:555/tv/[mn]公视闽南
+民视,http://rihou.cc:555/tv/[mn]民视闽南
+中视,http://rihou.cc:555/tv/[mn]中视闽南
+华视,http://rihou.cc:555/tv/[mn]华视闽南
+台视闽南,http://rihou.cc:555/tv/[mn]台视闽南
+公视台语,http://rihou.cc:555/tv/[mn]公视闽语
+公视,http://rihou.cc:555/tv/[mn]公视综合
+民视,http://rihou.cc:555/tv/[mn]民视南闽
+民视第一,http://rihou.cc:555/tv/[mn]民视第一
+中视经典,http://rihou.cc:555/tv/[mn]中视经典
+中视菁采,http://rihou.cc:555/tv/[mn]中视菁采
+华视教育,http://rihou.cc:555/tv/[mn]华视教育
+台视综合,http://rihou.cc:555/tv/[mn]台视综合
+台视财经,http://rihou.cc:555/tv/[mn]台视财经
+
+🐮港台smt代理测试,#genre#
 功夫台,http://46.38.157.60:53874/proxy/74a1f88bb26edd96.m3u8
 TVB星河頻道,http://46.38.157.60:53874/proxy/eec374cc1e8d1626.m3u8
 RTHK 33,http://46.38.157.60:53874/proxy/0fdfa04b92f5c594.m3u8
@@ -2691,6 +2731,15 @@ LABUBU,https://d.kstore.dev/download/4343/ffmking.mp4
 
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8$官网
 
+北京卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+东方卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+浙江卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+湖南卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+广东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+山东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+四川卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
 
 四川卫视4K,http://marswjf.coralangel.com:7088/udp/239.94.0.115:5140$四川电信1
 湖南卫视4K,http://marswjf.coralangel.com:7088/udp/239.94.0.116:5140$四川电信1
@@ -2823,8 +2872,31 @@ NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
 天映經典,http://74.91.26.218:82/live/tyjd.m3u8
 
 
-
-
+🐮JULI央视,#genre#
+CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+CCTV2,https://cdn13.178.indevs.in/163189/728a0426e886a6b6
+CCTV3,https://cdn16.163189.xyz/163189/96a39bfe7103e9c5
+CCTV4,https://cdn13.178.indevs.in/163189/ea38b764c2a9e93f
+CCTV5,https://cdn16.163189.xyz/163189/04fd1e256f077cb4
+CCTV5+,https://cdn16.163189.xyz/163189/a546ae65742101d4
+CCTV6,https://cdn16.163189.xyz/163189/4ceb289726bacf29
+CCTV7,https://cdn16.163189.xyz/163189/2a66b331c01cf2cf
+CCTV8,https://cdn16.163189.xyz/163189/88364a089ee099b9
+CCTV9,https://cdn13.178.indevs.in/163189/8cbaa4a5d3d56ccf
+CCTV10,https://cdn16.163189.xyz/163189/02b8dd6e6d732d7d
+CCTV11,https://cdn16.163189.xyz/163189/b29354983d6346c5
+CCTV12,https://cdn16.163189.xyz/163189/ed91886aa823a364
+CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
+CCTV14,https://cdn16.163189.xyz/163189/7b67a22535e8be8e
+CCTV15,https://cdn16.163189.xyz/163189/739033aae9798077
+CCTV17,https://cdn16.163189.xyz/163189/22590fc69319c801
+重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
+CHC家庭影院,https://cdn13.178.indevs.in/163189/adafdc2e9ef83fe0
+CHC动作电影,https://cdn13.178.indevs.in/163189/32a810b251717bd0
+广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
+广州南国都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
+五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 
 🐮JULI,#genre#
 
@@ -6414,32 +6486,36 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 
 📺数字電視,#genre#
 發發貓IPTV,https://d.kstore.space/download/4343/8866.mp4
-黨員遠程教育 (新疆),http://www.cjcrcb.top:65500/rtp/238.125.0.144:5140
-黨員遠程教育 (新疆),http://www.cjcrcb.top:65500/rtp/238.125.4.144:5140
-中國交通頻道(河北),http://chiceren.myds.me:58888/rtp/239.254.201.110:5181
-中國交通頻道(河北),http://yaching.xmtcenter.com:9999/rtp/239.254.201.110:5181
+中国教育1高清,http://120.76.248.139/live/bfgd/4200000135.m3u8
 
-中國交通頻道(山東),http://iptv.southtv.top:6123/rtp/239.21.1.115:5002
-中國交通頻道(山東),http://aik.ddnsfile.top:65235/rtp/239.21.1.115:5002
-中國交通頻道(貴州),http://www.ltxs.pro:4022/rtp/238.255.2.220:5999
+空中课堂,http://120.76.248.139/live/bfgd/4200000492.m3u8
 
-山東綜藝,http://iptv.southtv.top:6123/rtp/239.21.1.177:5002
-山東綜藝,http://aik.ddnsfile.top:65235/rtp/239.21.1.177:5002
+环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 
-齊魯頻道,http://iptv.southtv.top:6123/rtp/239.21.1.134:5002
-齊魯頻道,http://aik.ddnsfile.top:65235/rtp/239.21.1.134:5002
-齊魯頻道,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=qlpd
+百姓健康,http://120.76.248.139/live/bfgd/4200000219.m3u8
 
-精彩影視HD,http://www.cjcrcb.top:65500/rtp/238.125.2.196:5140
-精彩影視 HD,http://www.cjcrcb.top:65500/rtp/238.125.5.110:5140
-中華特産,http://www.cjcrcb.top:65500/rtp/238.125.2.178:5140
-中華特産,http://www.cjcrcb.top:65500/rtp/238.125.4.71:5140
-優優寶貝,http://www.cjcrcb.top:65500/rtp/238.125.2.177:5140
-優優寶貝,http://www.cjcrcb.top:65500/rtp/238.125.4.72:5140
-四海釣魚,http://www.cjcrcb.top:65500/rtp/238.125.2.172:5140
-四海釣魚,http://www.cjcrcb.top:65500/rtp/238.125.4.77:5140
-環球旅遊,http://www.cjcrcb.top:65500/rtp/238.125.2.176:5140
-環球旅遊,http://www.cjcrcb.top:65500/rtp/238.125.4.73:5140
+重温经典高清,http://120.76.248.139/live/bfgd/4200000635.m3u8
+
+
+
+
+炫动3D,http://120.76.248.139/live/bfgd/4200000298.m3u8
+
+漫游世界高清,http://120.76.248.139/live/bfgd/4200000297.m3u8
+
+电子竞技高清,http://120.76.248.139/live/bfgd/4200000296.m3u8
+
+风尚音乐,http://120.76.248.139/live/bfgd/4200000294.m3u8
+
+少儿动漫高清,http://120.76.248.139/live/bfgd/4200000293.m3u8
+
+高清娱乐,http://120.76.248.139/live/bfgd/4200000292.m3u8
+
+欧美影院高清,http://120.76.248.139/live/bfgd/4200000291.m3u8
+
+精品剧场高清,http://120.76.248.139/live/bfgd/4200000290.m3u8
+
+亚洲影院高清,http://120.76.248.139/live/bfgd/4200000289.m3u8
 YMG未來頻道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 
 NewTV超級電視劇,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
