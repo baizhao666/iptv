@@ -234,19 +234,19 @@ CCTV-4中文國際頻道(美洲),http://ik6.iptv8.net:8888/udp/225.1.5.32:1343
 
 CCTV-4中文國際頻道(歐洲),http://www.lizhinas.top:1009/udp/239.252.219.192:5140
 CCTV-4中文國際頻道(美洲),http://www.lizhinas.top:1009/udp/239.252.219.193:5140
-
 重溫經典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
-重溫經典,
-http://116.77.239.26:44300/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+重溫經典,http://8.138.7.223/tv/cwjd.php
 
-重溫經典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
-重溫經典,https://cdn6.946985.qzz.io/live/cwjd/stream.m3u8
+重溫經典,http://116.77.239.26:44300/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 重溫經典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重溫經典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重溫經典,http://120.76.248.139/live/bfgd/4200000636.m3u8
-重溫經典,http://ygbh.site/php/bfgd.php?id=636
 重溫經典,http://120.76.248.139/live/bfgd/4200000635.m3u8
+重溫經典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+重溫經典,https://cdn6.946985.qzz.io/live/cwjd/stream.m3u8
+
+
 
 
 
@@ -1651,10 +1651,76 @@ NewTV炫舞未來,http://zteres.sn.chinamobile.com:6060/000000001000/10000000010
 重慶衛視,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001096/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
 重慶衛視,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
 
+🐷央视频代理,#genre#
 
 
 
 
+CCTV1,http://154.37.212.176/ysp.php?pid=600001859&id=2024078201
+CCTV2,http://154.37.212.176/ysp.php?pid=600001800&id=2024075401
+CCTV3,http://154.37.212.176/ysp.php?pid=600001801&id=2024068501
+CCTV4,http://154.37.212.176/ysp.php?pid=600001814&id=2029797101
+CCTV5,http://154.37.212.176/ysp.php?pid=600001818&id=2024078401
+CCTV5+,http://154.37.212.176/ysp.php?pid=600001817&id=2024078001
+CCTV6,http://154.37.212.176/ysp.php?pid=600108442&id=2013693901
+CCTV7,http://154.37.212.176/ysp.php?pid=600004092&id=2024072001
+CCTV8,http://154.37.212.176/ysp.php?pid=600001803&id=2029793001
+CCTV9,http://154.37.212.176/ysp.php?pid=600004078&id=2024078601
+CCTV10,http://154.37.212.176/ysp.php?pid=600001805&id=2024078701
+CCTV11,http://154.37.212.176/ysp.php?pid=600001806&id=2027248701
+CCTV12,http://154.37.212.176/ysp.php?pid=600001807&id=2027248801
+CCTV13,http://154.37.212.176/ysp.php?pid=600001811&id=2029797201
+CCTV14,http://154.37.212.176/ysp.php?pid=600001809&id=2027248901
+CCTV15,http://154.37.212.176/ysp.php?pid=600001815&id=2027249001
+CCTV16,http://154.37.212.176/ysp.php?pid=600098637&id=2027249101
+CCTV164K,http://154.37.212.176/ysp.php?pid=600099502&id=2027249301
+CCTV17,http://154.37.212.176/ysp.php?pid=600001810&id=2027249401
+CCTV4K,http://154.37.212.176/ysp.php?pid=600002264&id=2029810301
+CCTV8K,http://154.37.212.176/ysp.php?pid=600156816&id=2026774101
+CGTN,http://154.37.212.176/ysp.php?pid=600014550&id=2024181701
+CGTN法语,http://154.37.212.176/ysp.php?pid=600084704&id=2024181801
+CGTN俄语,http://154.37.212.176/ysp.php?pid=600084758&id=2024181901
+CGTN阿拉伯语,http://154.37.212.176/ysp.php?pid=600084782&id=2024182001
+CGTN西班牙语,http://154.37.212.176/ysp.php?pid=600084744&id=2024182101
+CGTN外语纪录,http://154.37.212.176/ysp.php?pid=600084781&id=2024182301
+CCTV第一剧场(限免),http://154.37.212.176/ysp.php?pid=600099655&id=2026874203
+CCTV风云剧场(限免),http://154.37.212.176/ysp.php?pid=600099658&id=2025637103
+CCTV怀旧剧场(限免),http://154.37.212.176/ysp.php?pid=600099620&id=2026874303
+北京卫视,http://154.37.212.176/ysp.php?pid=600002309&id=2024052703
+东方卫视,http://154.37.212.176/ysp.php?pid=600002483&id=2024054503
+江苏卫视,http://154.37.212.176/ysp.php?pid=600002521&id=2024171103
+浙江卫视,http://154.37.212.176/ysp.php?pid=600002520&id=2024054703
+湖南卫视,http://154.37.212.176/ysp.php?pid=600002475&id=2024054803
+湖北卫视,http://154.37.212.176/ysp.php?pid=600002508&id=2024171203
+广东卫视,http://154.37.212.176/ysp.php?pid=600002485&id=2024060903
+广西卫视,http://154.37.212.176/ysp.php?pid=600002509&id=2024060703
+黑龙江卫视,http://154.37.212.176/ysp.php?pid=600002498&id=2029797003
+海南卫视,http://154.37.212.176/ysp.php?pid=600002506&id=2024055603
+重庆卫视,http://154.37.212.176/ysp.php?pid=600002531&id=2024061103
+CETV1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
+深圳卫视,http://154.37.212.176/ysp.php?pid=600002481&id=2024061303
+四川卫视,http://154.37.212.176/ysp.php?pid=600002516&id=2024061403
+河南卫视,http://154.37.212.176/ysp.php?pid=600002525&id=2029797303
+东南卫视,http://154.37.212.176/ysp.php?pid=600002484&id=2024061503
+贵州卫视,http://154.37.212.176/ysp.php?pid=600002490&id=2024061603
+江西卫视,http://154.37.212.176/ysp.php?pid=600002503&id=2024061703
+辽宁卫视,http://154.37.212.176/ysp.php?pid=600002505&id=2024171303
+安徽卫视,http://154.37.212.176/ysp.php?pid=600002532&id=2024171403
+河北卫视,http://154.37.212.176/ysp.php?pid=600002493&id=2024171503
+山东卫视,http://154.37.212.176/ysp.php?pid=600002513&id=2029787903
+天津卫视,http://154.37.212.176/ysp.php?pid=600152137&id=2019927003
+陕西卫视,http://154.37.212.176/ysp.php?pid=600190400&id=2029795103
+内蒙古卫视,http://154.37.212.176/ysp.php?pid=600190401&id=2025561203
+甘肃卫视,http://154.37.212.176/ysp.php?pid=600190408&id=2025561703
+宁夏卫视,http://154.37.212.176/ysp.php?pid=600190737&id=2025608503
+山西卫视,http://154.37.212.176/ysp.php?pid=600190407&id=2025560803
+云南卫视,http://154.37.212.176/ysp.php?pid=600190402&id=2025561303
+吉林卫视,http://154.37.212.176/ysp.php?pid=600190405&id=2025561503
+青海卫视,http://154.37.212.176/ysp.php?pid=600190406&id=2025559103
+西藏卫视,http://154.37.212.176/ysp.php?pid=600190403&id=2025558003
+新疆卫视,http://154.37.212.176/ysp.php?pid=600152138&id=2019927403
+兵团卫视,http://154.37.212.176/ysp.php?pid=600193252&id=2025990501
+国学频道,http://154.37.212.176/ysp.php?pid=600213139&id=2029360403
 🐷綜合直播(上移1),#genre#
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -9156,9 +9222,17 @@ Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern
 香港佛陀教育協會,https://video.amtbhk.net/live/hd/chunklist.m3u8
 淨空老法師,https://tw8.hwadzan.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
 悟道法師,https://tw8.hwadzan.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8KTV35/master.m3u8
+🇭🇰香港NOW體育,#genre#
 
-
-
+NOW體育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+NOW體育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
+NOW體育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+NOW體育4,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+NOW體育5,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
+NOW體育6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+NOW體育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+NOW體育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
+NOW體育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 
 
 
@@ -10385,6 +10459,153 @@ NEW MOVIES,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel
 빌리어즈TV 레전드,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%B9%8C%EB%A6%AC%EC%96%B4%EC%A6%88tv%EB%A0%88%EC%A0%84%EB%93%9C&channel_id=newid_027&apikey=b97c7a7d0c82424bb607e141ef215779&auth=8d76450f-b948e49a-8b1249a3-63fbfeac&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 ch.핑크퐁,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ch.%ED%95%91%ED%81%AC%ED%90%81&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&coppa=1&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
+🇯🇵日本2026,#genre#
+
+NHK G,https://nl.utako.moe/NHK_G/index.m3u8
+NHK E,https://nl.utako.moe/NHK_E/index.m3u8
+NTV,https://nl.utako.moe/Nippon_TV/index.m3u8
+TBS,https://nl.utako.moe/TBS/index.m3u8
+Fuji TV,https://nl.utako.moe/Fuji_TV/index.m3u8
+TV Asahi,https://nl.utako.moe/TV_Asahi/index.m3u8
+TV Tokyo,https://nl.utako.moe/TV_Tokyo/index.m3u8
+TOKYO MX1,https://nl.utako.moe/Tokyo_MX1/index.m3u8
+TOKYO MX2,https://nl.utako.moe/Tokyo_MX2/index.m3u8
+NHK G HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+NHK E HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+NTV HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+TBS HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+Fuji TV HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+TV Asahi HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+TV Tokyo HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
+TOKYO MX1 HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
+NHK G (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+NHK E (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+NTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+TBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+Fuji TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+TV Asahi (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+TV Tokyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+TOKYO MX1 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+MBS,https://nl.utako.moe/mbs/index.m3u8
+ABC,https://nl.utako.moe/abc/index.m3u8
+TV Osaka,https://nl.utako.moe/tvo/index.m3u8
+Kansai TV,https://nl.utako.moe/kansaitv/index.m3u8
+ytv,https://nl.utako.moe/ytv/index.m3u8
+KBS,https://nl.utako.moe/kbs/index.m3u8
+SUN,https://nl.utako.moe/suntv/index.m3u8
+NHK G Osaka (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+MBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+ABC (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+Kansai TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+ytv (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+TV Osaka (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+SUN (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+BS,#genre#
+NHK BS,https://nl.utako.moe/NHK_BS/index.m3u8
+BS NTV,https://nl.utako.moe/bsntv/index.m3u8
+BS Asahi,https://nl.utako.moe/bsasahi/index.m3u8
+BS TBS,https://nl.utako.moe/bstbs/index.m3u8
+BS TV Tokyo,https://nl.utako.moe/bstvtokyo/index.m3u8
+BS Fuji,https://nl.utako.moe/bsfuji/index.m3u8
+BS11,https://nl.utako.moe/BS11/index.m3u8
+NHK BS4K,https://nl.utako.moe/bsp4k/index.m3u8
+WOWOW Prime,https://nl.utako.moe/wprime/index.m3u8
+WOWOW Cinema,https://nl.utako.moe/wcinema/index.m3u8
+WOWOW Live,https://nl.utako.moe/wlive/index.m3u8
+BS 10 Premium,https://nl.utako.moe/bs10_star/index.m3u8
+JSport 1,https://nl.utako.moe/js1/index.m3u8
+JSport 2,https://nl.utako.moe/js2/index.m3u8
+JSport 3,https://nl.utako.moe/js3/index.m3u8
+JSport 4,https://nl.utako.moe/js4/index.m3u8
+Green Channel,https://nl.utako.moe/green/index.m3u8
+Animax,https://nl.utako.moe/Animax/index.m3u8
+Nihon Eiga Senmon,https://nl.utako.moe/nihoneiga/index.m3u8
+Sky A,https://nl.utako.moe/skya/index.m3u8
+NHK BS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+BS NTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+BS Asahi (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+BS TBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS TV Tokyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+BS Fuji (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+NHK BS4K (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+WOWOW Prime (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+WOWOW Cinema (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+WOWOW Live (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+BS 10 Star Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+JSport 1 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+JSport 2 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+JSport 3 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+JSport 4 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+Green Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+Animax (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+Nihon Eiga Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+Sky A (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+ Fishing Vision (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+ Disney Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+ JCOM BS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+CS,#genre#
+Gaora Sports,https://nl.utako.moe/gaora/index.m3u8
+AT-X,https://nl.utako.moe/AT-X/index.m3u8
+Space Shower TV,https://nl.utako.moe/spaceshower/index.m3u8
+MTV,https://nl.utako.moe/mtv/index.m3u8
+Kayo Pops,https://nl.utako.moe/kayopops/index.m3u8
+ Kids Staton,https://nl.utako.moe/kids_station/index.m3u8
+Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
+Cartoon Network,https://nl.utako.moe/cartoon_network/index.m3u8
+Nittele G+,https://nl.utako.moe/ntvgplus/index.m3u8
+Family Gekijyo,https://nl.utako.moe/familygeki/index.m3u8
+Mondo TV,https://nl.utako.moe/mondo/index.m3u8
+Music ON TV,https://nl.utako.moe/musicon/index.m3u8
+Mnet,https://nl.utako.moe/mnet/index.m3u8
+Golf Network,https://nl.utako.moe/golf_network/index.m3u8
+The Cinema,https://nl.utako.moe/the_cinema/index.m3u8
+TBS Channel 1,https://nl.utako.moe/tbsch1/index.m3u8
+TBS Channel 2,https://nl.utako.moe/tbsch2/index.m3u8
+TV Asahi Channel 1,https://nl.utako.moe/ex_ch1/index.m3u8
+TV Asahi Channel 2,https://nl.utako.moe/ex_ch2/index.m3u8
+Fuji TV ONE,https://nl.utako.moe/fuji_one/index.m3u8
+Fuji TV TWO,https://nl.utako.moe/fuji_two/index.m3u8
+Fuji TV NEXT,https://nl.utako.moe/fuji_next/index.m3u8
+Neco Channel,https://nl.utako.moe/neco/index.m3u8
+Dlife,https://nl.utako.moe/dlife/index.m3u8
+Toei Channel,https://nl.utako.moe/toei/index.m3u8
+Fighting TV Samurai,https://nl.utako.moe/fighting_tv/index.m3u8
+Entermei Tele,https://nl.utako.moe/entermei_tele/index.m3u8
+Sport Live Plus,https://nl.utako.moe/sport_live_plus/index.m3u8
+Home Drama Channel,https://nl.utako.moe/homedrama/index.m3u8
+Channel Ginga,https://nl.utako.moe/gingach/index.m3u8
+Tabi Channel,https://nl.utako.moe/tabi/index.m3u8
+ Jidaigeki Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+ Toei Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+ Eisei Gekijo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+ Family Gekijyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+ Movie Plus (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+ Home Drama Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+ Tabi Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+ Fuji TV Next (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+ Sky A  (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+ GAORA SPORTS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+ Golf Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+ Nittele G+ (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+ Mondo TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+ Channel Ginga (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+ Space Shower TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+ Music Japan TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+ Kayo Pops (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+ MTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+ LaLa TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+ Takarazuka Sky Stage (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+ Kids Staton TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+ Cartoon Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+ National Geographic Japan (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+ Disney Junior (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+ Discovery Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+ Animal Planet (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+ History (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+ CNNj (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+ BBC News (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+ TBS News (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
 
 🇯🇵日本,#genre#
