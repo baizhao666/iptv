@@ -33,6 +33,7 @@ http://43.251.226.110:9991/db76zv
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/myplaylist.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/jackTV.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/test.m3u
+https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/dashengruoyu5lENmOjW.m3u
 
 # http://rihou.cc:555/gggg.nzk/
 
