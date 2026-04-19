@@ -6865,9 +6865,74 @@ JTV,http://125.227.210.55:8169/VideoInput/play.ts
 BBC,http://125.227.210.55:44350/VideoInput/play.ts
 NET,http://125.227.210.55:8172/VideoInput/play.ts
 Ntv,http://125.227.210.55:8173/VideoInput/play.ts
+🐻台灣（iill）,#genre# 
+BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
+BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+Discovery,https://hls.iill.top/api/Discovery/index.m3u8
+翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
+无綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
+TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
+HBO,https://hls.iill.top/api/HBO/index.m3u8
+HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
+HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
+動物星球,https://hls.iill.top/api/dwxq/index.m3u8
+緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
+纬来体育,https://hls.iill.top/api/wlty/index.m3u8
+纬来电影,https://hls.iill.top/api/wldy/index.m3u8
+东森电影,https://hls.iill.top/api/dsdy/index.m3u8
+东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
+龙祥时代,https://hls.iill.top/api/lxsd/index.m3u8
+博斯無限一,https://tv.iill.top/FainTV/129
+博斯無限二,https://tv.iill.top/FainTV/418
+博斯運動一,https://tv.iill.top/FainTV/102
+博斯運動二,https://tv.iill.top/FainTV/124
+博斯高球一,https://tv.iill.top/FainTV/108
+博斯高球二,https://tv.iill.top/FainTV/125
+博斯網球,https://tv.iill.top/FainTV/53
+博斯魅力,https://tv.iill.top/FainTV/135
+MOMO運動綜合,https://tv.iill.top/FainTV/14009
+中天亞洲,https://tv.iill.top/FainTV/121
+🐻台灣（測試頻道）,#genre# 
 
 
 
+台視,http://211.72.174.95:8112/0.ts
+中視,http://211.72.174.95:8113/0.ts
+華視,http://211.72.174.95:8114/0.ts
+公視,http://211.72.174.95:8116/0.ts
+民視,http://211.72.174.95:8115/0.ts
+民視新聞,http://211.72.174.95:8117/0.ts
+維修,http://211.72.174.95:8138/0.ts
+墾丁凱撒大飯店,http://211.72.174.95:8118/0.ts
+無信號1,http://211.72.174.95:8122/0.ts
+無信號2,http://211.72.174.95:8125/0.ts
+
+ESPN-1,http://46.151.196.223:14432/
+ESPN-2,http://46.151.196.223:14438/
+ESPN-3,http://46.151.196.223:14444/
+ESPN-4,http://46.151.196.223:14450/
+浙江衛視,http://61.219.170.95:18534/.m3u8
+湖南衛視,http://61.219.170.95:18536/.m3u8
+廈門衛視,http://61.219.170.95:18631/.m3u8
+CCTV4,http://61.219.170.95:18633/.m3u8
+
+中台灣生活網,https://d2c3knvd5vy5p4.cloudfront.net/out/v1/f4b08c95eaa94ca4b27f95fe2147b5a3/index_1.m3u8
+中台灣生活網,https://d2c3knvd5vy5p4.cloudfront.net/out/v1/f4b08c95eaa94ca4b27f95fe2147b5a3/index.m3u8?ads.ad_insertion_type=SSAI&ads.app_id=062097f1b1f34e11e7f82aag22000aee&ads.chocomember_id=&ads.device=mobile_web&ads.instance_id=7d5230db-1329-439f-9b4f-e64e579ffa92&ads.os=&ads.product_type=FAST&ads.session_id=e03e1f07-bd5f-435c-9f9c-f1e6deb82d41&ads.source=LINE_TV&ads.uid2_token=&ads.version=10.87.2
+
+鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/6e816c56-a211-429d-86a3-03ecf25b80c2/1.m3u8
+鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/master/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/index.m3u8?ads.ad_insertion_type=SSAI&ads.app_id=062097f1b1f34e11e7f82aag22000aee&ads.chocomember_id=&ads.device=mobile_web&ads.instance_id=7d5230db-1329-439f-9b4f-e64e579ffa92&ads.os=&ads.product_type=FAST&ads.session_id=e03e1f07-bd5f-435c-9f9c-f1e6deb82d41&ads.source=LINE_TV&ads.uid2_token=&ads.version=10.87.2
+
+中台灣生活網,video://https://www.linetv.tw/fast_channel/63
+鏡新聞,video://https://www.linetv.tw/fast_channel/42?drama_id=104&placement_title=鏡新聞&schedule_type=LIVE&source=FAST_TV&source_drama_id=105&source_schedule_type=LIVE&source_tv_id=63&tv_id=42&type=link
+
+ETtoday綜合台,video://https://www.faintv.com/channel/146
+CNEX紀實頻道,video://https://www.faintv.com/channel/18295
+寰宇財經台,video://https://www.faintv.com/channel/141
+亚太台,video://https://www.faintv.com/channel/8976
+Smart知識台,video://https://www.faintv.com/channel/68
+海峽衛視台,video://https://www.faintv.com/channel/211
+龍華卡通台,video://https://www.faintv.com/channel/89
 
 
 🐻台灣（全網杂源）,#genre# 
