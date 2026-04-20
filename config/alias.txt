@@ -58,8 +58,8 @@ CGTN俄语,CGTN俄罗斯语
 
 
 翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,re:无线翡翠(?!\d),翡翠台B,无线翡翠台,香港 翡翠台,TVB翡翠台,TVB 翡翠台,TVB 翡翠台,翡翠台TVBJ1,翡翠台1,﻿翡翠台,翡翠台 MY,翡翠台 P,翡翠台 CANTONESE SUBTITLES
-华丽翡翠台,翡翠台华丽台,TVB华丽翡翠台,TVB 华丽翡翠台粵,华丽 翡翠台,華麗翡翠臺,華麗翡翠
-黄金翡翠台,MYTV黄金翡翠台,黄金翡翠台HD,黄金翡翠台高清,MYTV黄金翡翠台HD,MYTV黄金翡翠台高清,黃金翡翠臺,黃金翡翠
+华丽翡翠台,翡翠台华丽台,TVB华丽翡翠台,TVB 华丽翡翠台粵,华丽 翡翠台,華麗翡翠臺,華麗翡翠,re:华丽翡翠(?!\d)
+黄金翡翠台,MYTV黄金翡翠台,黄金翡翠台HD,黄金翡翠台高清,MYTV黄金翡翠台HD,MYTV黄金翡翠台高清,黃金翡翠臺,re:黃金翡翠(?!\d)
 明珠台,re:明珠(?!\d),TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
 TVB Plus,TVBPLUS,TVBPlus,TVB plus,tvb plus,TVB PLUS
 北京卫视,北京卫视4K,北京卫视4K超高清
