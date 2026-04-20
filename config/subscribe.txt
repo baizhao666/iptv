@@ -5,7 +5,6 @@
 # https://php.946985.filegear-sg.me/jackTV.m3u
 # https://php.946985.filegear-sg.me/test.m3u
 # https://live.catvod.com/live.php?token=0818f3e33bb972867cc3920ed543e5f4344b58b38f0a90740a23204a608f6a51
-# https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/telegram.m3uF
 # http://rihou.cc:555/gggg.nzk/
 # http://43.251.226.110:9991/db76zv
 https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt
@@ -34,6 +33,7 @@ https://raw.githubusercontent.com/baizhao666/baizhao666/main/%E5%8F%B0%E6%B9%BE%
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/myplaylist.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/jackTV.m3u
 https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/dashengruoyu5lENmOjW.m3u
+https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/telegram.m3u
 
 # https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/test.m3u
 
