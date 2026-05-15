@@ -7,6 +7,7 @@
 # https://live.catvod.com/live.php?token=0818f3e33bb972867cc3920ed543e5f4344b58b38f0a90740a23204a608f6a51
 # http://rihou.cc:555/gggg.nzk/
 # http://43.251.226.110:9991/db76zv
+# https://iptv.judy.edu.kg/get.php?username=tg_i5lulg15&password=3exzr63sche7&type=m3u_plus
 https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
@@ -31,9 +32,8 @@ https://raw.githubusercontent.com/baizhao666/baizhao666/main/%E5%8F%B0%E6%B9%BE%
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/myplaylist.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/jackTV.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/telegram.m3u
-https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u
 
-# https://iptv.judy.edu.kg/get.php?username=tg_i5lulg15&password=3exzr63sche7&type=m3u_plus
+# https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
