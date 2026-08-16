@@ -11,12 +11,12 @@
 # https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # https://raw.githubusercontent.com/wujiangliu/live-sources/main/dianshijia_10.1.txt
+# https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
 https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-txt/main/others_output.txt
-https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
 https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt
 https://raw.githubusercontent.com/baizhao666/baizhao666/main/feiyang.txt
 https://raw.githubusercontent.com/baizhao666/baizhao666/main/playlist.m3u
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/myplayli
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/jackTV.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/telegram.m3u
 
-# https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
+# https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
