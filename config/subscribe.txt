@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/baizhao666/baizhao666/main/%E5%8F%B0%E6%B9%BE%
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/myplaylist.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/jackTV.m3u
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/telegram.m3u
+http://158.101.5.156:30000/mytv.m3u?token=mytv123
 
 # https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u
 
